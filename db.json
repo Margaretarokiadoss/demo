@@ -9,65 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": [
-    {
-        "key": "REG",
-        "value": "REG - Regular Program"
-    },
-    {
-        "key": "AHP",
-        "value": "AHP - Affordable Housing Program"
-    },
-    {
-        "key": "CDF",
-        "value": "CDF - Community Development Fund"
-    },
-    {
-        "key": "CIP",
-        "value": "CIP - Community Investment Program"
-    },
-    {
-        "key": "ERLY",
-        "value": "ERLY - Early Rate Program"
-    },
-    {
-        "key": "SPEC",
-        "value": "SPEC - Special Rate Program"
-    },
-    {
-        "key": "CMA",
-        "value": "CMA - Community Mortgage Asset"
-    },
-    {
-        "key": "UDA",
-        "value": "UDA - Urban Development Advance"
-    },
-    {
-        "key": "RDA",
-        "value": "RDA - Rural Development Advance"
-    },
-    {
-        "key": "FDG",
-        "value": "FDG - Funding Agreement"
-    },
-    {
-        "key": "BDA",
-        "value": "BDA - BUSINESS DEVELOPMENT ADVANCE"
-    },
-    {
-        "key": "CDA",
-        "value": "CDA - Climate Development Advance"
-    },
-    {
-        "key": "TDA",
-        "value": "TDA - Tribal Development Advance"
-    },
-    {
-        "key": "IDA",
-        "value": "IDA - Infra Development Advance"
-    },
-    {
-        "key": "BDN",
-        "value": "BDN - Non-CICA BDA"
-    }
+    {"key":"1","value":"DRF (Maria \u0026 Irma)"},{"key":"2","value":"DRF (Ida)"}
+
 ]
 }
